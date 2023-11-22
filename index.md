@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 ## My Interests
 - [English](./MyEnglish.md)
 - [Web Development](./MyWebDev.md)
-- [Music](./Mymusic.md)
+- [Music](./MyMusic.md)
   
 
 
